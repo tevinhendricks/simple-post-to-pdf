@@ -1,0 +1,28 @@
+
+
+ 
+ .pdf-download-container {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.pdf-download-button {
+    display: inline-block;
+    background-color: #e74c3c;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.pdf-download-button:hover {
+    background-color: #c0392b;
+    color: #ffffff;
+}
+
+.pdf-download-button .dashicons {
+    margin-right: 5px;
+    vertical-align: middle;
+}
